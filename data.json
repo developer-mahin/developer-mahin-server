@@ -1,0 +1,131 @@
+[
+  {
+    "imgURL": [
+      "https://i.ibb.co/dDCr78y/screencapture-computer-zone-2fcc0-web-app-2022-12-26-20-23-11.png",
+      "https://i.ibb.co/B4ybDyh/screencapture-computer-zone-2fcc0-web-app-dashboard-2022-12-26-20-23-43.png",
+      "https://i.ibb.co/2vGBV2w/screencapture-computer-zone-2fcc0-web-app-dashboard-2022-12-26-20-24-04.png",
+      "https://i.ibb.co/vLhnXr0/screencapture-computer-zone-2fcc0-web-app-dashboard-2022-12-26-20-24-23.png",
+      "https://i.ibb.co/C1HG6Vs/screencapture-computer-zone-2fcc0-web-app-advertise-Details-6384ee08c3d1b8472de7d390-2022-12-26-20-2.png",
+      "https://i.ibb.co/YLWHX93/screencapture-computer-zone-2fcc0-web-app-category-1-2022-12-26-20-24-49.png",
+      "https://i.ibb.co/HPd01S7/screencapture-computer-zone-2fcc0-web-app-blogs-2022-12-26-20-24-35.png",
+      "https://i.ibb.co/8957Lp9/screencapture-computer-zone-2fcc0-web-app-signup-2022-12-26-20-57-38.png",
+      "https://i.ibb.co/t3fk3pm/screencapture-computer-zone-2fcc0-web-app-login-2022-12-26-20-57-30.png"
+    ],
+    "category_id": 2,
+    "category_name": "e-commerce",
+    "liveURl": "https://computer-zone-2fcc0.web.app/",
+    "gitHubClient": "https://github.com/developer-mahin/computer-zone-client",
+    "githubServer": "https://github.com/developer-mahin/computer-zone-server",
+    "technology": [
+      "TailwindCSS",
+      "DaisyUi",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Firebase",
+      "TanStack Query",
+      "Stipe",
+      "JSON web token",
+      "Axios",
+      "Context API",
+      "React Router Dom"
+    ],
+    "details": [
+      "It is a single-page web application created with React.js for the client side. Also, it has backend functionality created using Node.js, Express.js, and MongoDB.",
+      "A Full Stack Multi-Vendor e-commerce web platform for reselling used laptops.",
+      "And have three deference roles like buyer, seller, and admin",
+      "Buyers can book products and report to the admin",
+      "And Seller can add, delete, and advertise their products",
+      "And the admin can see all buyers and sellers and delete, verify sellers or as well as buyers",
+      "The admin can verify a seller or delete as well as the buyers. Also, an admin can delete the reported items. If the admin deletes the reported item, it will be removed from everywhere including the home page and seller’s dashboard panel.",
+      "If the admin verifies a seller, a verification sign will appear beside their name.",
+      "Authentication with google, email, and password using firebase and stripe for payment gateway",
+      "For a better user experience, I included React-hot-toast, Loader, etc. All the page is desktop, tablet, and mobile responsive."
+    ],
+    "projectImg": "https://i.ibb.co/dDCr78y/screencapture-computer-zone-2fcc0-web-app-2022-12-26-20-23-11.png",
+    "projectName": "computer-zone",
+    "shortDetails": "Used laptop reseling website"
+  },
+  {
+    "imgURL": [
+      "https://i.ibb.co/4WzjhDN/screencapture-law-firm-assignment-web-app-2022-12-26-20-54-19.png",
+      "https://i.ibb.co/K6sSBch/screencapture-law-firm-assignment-web-app-services-2022-12-26-20-54-42.png",
+      "https://i.ibb.co/0rRJzcK/screencapture-law-firm-assignment-web-app-services-636953cc0f459dd08ebb9057-2022-12-26-20-55-30.png",
+      "https://i.ibb.co/6mKd4BY/screencapture-law-firm-assignment-web-app-my-review-2022-12-26-20-56-02.png",
+      "https://i.ibb.co/syfw22B/screencapture-law-firm-assignment-web-app-add-services-2022-12-26-20-56-09.png",
+      "https://i.ibb.co/vj2fjYf/screencapture-law-firm-assignment-web-app-register-2022-12-26-20-57-10.png",
+      "https://i.ibb.co/xFyY2wq/screencapture-law-firm-assignment-web-app-login-2022-12-26-20-57-02.png",
+      "https://i.ibb.co/jTkLXVV/screencapture-law-firm-assignment-web-app-blog-2022-12-26-20-56-51.png"
+    ],
+    "category_id": 3,
+    "category_name": "Service",
+    "liveURl": "https://law-firm-assignment.web.app/",
+    "gitHubClient": "https://github.com/developer-mahin/law-firm-client",
+    "githubServer": "https://github.com/developer-mahin/law-firm-server",
+    "technology": [
+      "TailwindCSS",
+      "Flowbite",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Firebase",
+      "Context API",
+      "JSON web token",
+      "React Router Dom"
+    ],
+    "details": [
+      "It is a learning website where a user can review the services they took from the website",
+      "A full stack lawyer services website for Bangladesh. Only logged-in users can add, edit and delete their service review",
+      "It is also created with React.js for the client side. Also, it has backend functionality created using Node.js, Express.js, and MongoDB.",
+      "Only the service provider can upload service with service details including service image, cost, and other service information.",
+      "If the user is not logged in, he will not be able to purchase the service and will not be able to add a review",
+      "Authenticate with Google, Email, and Password using Firebase, and MongoDB is used as the Database system."
+    ],
+    "projectImg": "https://i.ibb.co/4WzjhDN/screencapture-law-firm-assignment-web-app-2022-12-26-20-54-19.png",
+    "projectName": "law firm in Bangladesh",
+    "shortDetails": "lawyer services website"
+  },
+  {
+    "imgURL": [
+      "https://i.ibb.co/3F2R3mX/screencapture-learn-with-mahin-web-app-2022-12-26-21-09-22.png",
+
+      "https://i.ibb.co/DfN9MMt/screencapture-learn-with-mahin-web-app-courses-2022-12-26-21-09-36.png",
+      "https://i.ibb.co/nnvLpdY/screencapture-learn-with-mahin-web-app-blog-2022-12-26-21-09-55.png",
+      " https://i.ibb.co/7RjrgYM/screencapture-learn-with-mahin-web-app-courses-6358043b4b6c533356151e0f-2022-12-31-10-45-45.png",
+      "https://i.ibb.co/9wsnY4x/screencapture-learn-with-mahin-web-app-courses-6358043b4b6c533356151v60-2022-",
+      "https://i.ibb.co/zVzRCHn/screencapture-learn-with-mahin-web-app-courses-6358043b1cffec9b6eaf8c32-2022-12-31-10-45-18.png",
+      " https://i.ibb.co/HBRrtHq/screencapture-learn-with-mahin-web-app-courses-6358043b2a3360d2a76797ea-2022-12-31-10-45-09.png",
+      " https://i.ibb.co/hF7mVLx/screencapture-learn-with-mahin-web-app-courses-6358043b25c493814826dfeb-2022-12-31-10-44-57.png",
+      "https://i.ibb.co/kQMrGhr/screencapture-learn-with-mahin-web-app-courses-6358043b9e53c00e6eedc5e0-2022-12-31-10-44-40.png"
+    ],
+    "category_id": 3,
+    "category_name": "Service",
+    "liveURl": "https://learn-with-mahin.web.app/",
+    "gitHubClient": "https://github.com/developer-mahin/lear-with-mahin-react-app",
+    "githubServer": "https://github.com/developer-mahin/Learn-with-mahin-server",
+    "technology": [
+      "TailwindCSS",
+      "DaisyUi",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Firebase",
+      "React Router Dom"
+    ],
+    "details": [
+      "Learn with mahin is a programming-related online course-selling website.",
+      "On the courses page, all courses are available for the user. A user can learn about course details by clicking a course card.",
+      "The courses page also has a sidebar where a user can learn about course details.",
+      "Authenticate with Google, Email, and Password using Firebase.",
+      "Without signup or login, the user cannot get access to the courses because All courses are protected by the private route.",
+      "Logged-in users can get premium access if he/she wants.",
+      "Learn the most popular MERN Stack & C Programming and Implement react-pdf to download pdf files on the browser and server."
+    ],
+    "projectImg": "https://i.ibb.co/3F2R3mX/screencapture-learn-with-mahin-web-app-2022-12-26-21-09-22.png",
+    "projectName": "Learn programming",
+    "shortDetails": "Course sellign website"
+  }
+]
